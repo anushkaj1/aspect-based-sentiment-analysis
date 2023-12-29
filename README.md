@@ -9,11 +9,11 @@ This project was made as part of our final project for the course, Statistical M
 
 ## Topic : <b>A hierarchical model of reviews for aspect based sentiment analysis</b>
 ### Important Files
-- [documents/main-paper.pdf](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/documents/main-paper.pdf) : The paper being implemented in the project.
-- [documents/smai-project-proposal.pdf](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/documents/smai-project-proposal.pdf) : An initial proposal and deliverables to complete the project.
-- [documents/datasets-paper.pdf](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/documents/datasets-paper.pdf) : Contains the documentation of SemEval 2016 Task 5 and other useful information regarding the problem 
-- [README.md](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/README.md) : The documentation of the repository.
-- [smai-project-environment.yml](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/smai-project-environment.yml) : Contains a virtual conda env which contains all the required libraries used.
+- [documents/main-paper.pdf](https://github.com/anushkaj1/aspect-based-sentiment-analysis/blob/main/documents/main-paper.pdf) : The paper being implemented in the project.
+<!-- - [documents/smai-project-proposal.pdf](https://github.com/Statistical-Methods-in-AI-Monsoon-2023/project-huh-lmao/blob/main/documents/smai-project-proposal.pdf) : An initial proposal and deliverables to complete the project. -->
+- [documents/datasets-paper.pdf](https://github.com/anushkaj1/aspect-based-sentiment-analysis/blob/main/documents/datasets-paper.pdf) : Contains the documentation of SemEval 2016 Task 5 and other useful information regarding the problem 
+- [README.md](https://github.com/anushkaj1/aspect-based-sentiment-analysis/blob/main/README.md) : The documentation of the repository.
+- [smai-project-environment.yml](https://github.com/anushkaj1/aspect-based-sentiment-analysis/blob/main/smai-project-environment.yml) : Contains a virtual conda env which contains all the required libraries used.
 
 ### Code
 #### preprocessing.ipynb
